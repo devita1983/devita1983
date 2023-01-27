@@ -55,9 +55,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
 
         
-          
+  <div>        
 ![Snake animation](https://github.com/devita1983/devita1983/blob/output/github-contribution-grid-snake.svg)    
-
+<div/>
 
           
 
