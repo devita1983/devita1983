@@ -1,4 +1,4 @@
-# Olá, Eu sou o Luis Claudio De Vita
+# Hi!, I'm Luis Claudio De Vita
 
 ### Sou Business Consultant at IBM Partner Plus (Silver) nas seguintes tecnologias: 
 - Watson Assistant for Cloud Pak for Data
