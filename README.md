@@ -1,10 +1,18 @@
-## Olá, Eu sou o Luis Claudio De Vita
+# Olá, Eu sou o Luis Claudio De Vita
 
-- Business Consultant at IBM Partner Plus e trabalho com as seguintes tecnologias: 
+### Sou Business Consultant at IBM Partner Plus (Silver) nas seguintes tecnologias: 
+- Watson Assistant for Cloud Pak for Data
+- Cognos Analytics
+- Data Fabric for Cloud Pak for Data
+- SPSS Modeler, SPSS Statistics, Planning Analytics
+
+## Knowledges
 - Power Bi & Power Bi Mobile, Dashboards Design, DAX , M language and ETL optimization with Power Query, data modeling
 - Power Bi connection projects with various data sources, including corporate database & SQL, MySql, SQL Server, PL/SQL
 - Jupyter Notebook for Python for Data Analysis and Data Science, Graphics in Python, DataFrames, Web Scraping, Selenium, Integration Services & ETL
 - Python for processing data with Pandas, Linear Algebra - NumPy, Automatic Searches, Exploratory Analysis, AI, Sales Forecasting, Model Analysis, graphing in Python with MatplotLib, graphics customization with SeaBorn, Applied statistics.
+- Knowledge in Statistics for Machine Learning, Deploy transformations, automation, AI/ML for Statistic data
+- Math in Sao Paulo's State Government   
 
 - 💻 Contate-me no email: lcd@eikocloud.com
 - 📃 https://www.linkedin.com/in/lcdvita/
