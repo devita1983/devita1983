@@ -56,7 +56,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
 
         
           
-![Snake gif](https://github.com/devita1983/devita1983/blob/output/github-contribution-grid-snake.svg)    
+![Snake animation](https://github.com/devita1983/devita1983/blob/output/github-contribution-grid-snake.svg)    
 
 
           
