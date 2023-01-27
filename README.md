@@ -4,7 +4,9 @@
 - Watson Assistant for Cloud Pak for Data
 - Cognos Analytics
 - Data Fabric for Cloud Pak for Data
-- SPSS Modeler, SPSS Statistics, Planning Analytics  
+- SPSS Modeler, SPSS Statistics, Planning Analytics
+- IBM Cloud
+- IBM MaaS360 with Watson (SaaS)  
 
 
           
