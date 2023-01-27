@@ -54,9 +54,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-or
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> <img 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
 
- <div>        
-![snake gif] (https://github.com/devita1983/devita1983/blob/output/github.contribution.grid.snake.svg)          
-</div>
+        
+!snake gif (https://github.com/devita1983/devita1983/blob/output/github.contribution.grid.snake.svg)          
 
                    
           
