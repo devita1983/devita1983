@@ -4,7 +4,10 @@
 - Watson Assistant for Cloud Pak for Data
 - Cognos Analytics
 - Data Fabric for Cloud Pak for Data
-- SPSS Modeler, SPSS Statistics, Planning Analytics
+- SPSS Modeler, SPSS Statistics, Planning Analytics  
+
+
+          
 
 ## Knowledges
 - Power Bi & Power Bi Mobile, Dashboards Design, DAX , M language and ETL optimization with Power Query, data modeling
@@ -26,7 +29,7 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/> <img
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="40" height="40"/>
           
           
                            
@@ -41,11 +44,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg"
           
                                                                                                                            
            
-          
-          
-          
-          
-
+         
 ## DevOps
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"  width="40" height="40"/>  <img 
