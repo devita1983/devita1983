@@ -8,9 +8,10 @@
 - SPSS Modeler, SPSS Statistics, Planning Analytics
 - IBM Cloud
 - IBM MaaS360 with Watson (SaaS)  
+<img src="https://user-images.githubusercontent.com/117879893/215910864-80252ccb-db15-48ab-b3f0-63a2fe721951.png" width="110" height="90" />
 
 
-          
+
 
 ## Knowledges
 - Power Bi & Power Bi Mobile, Dashboards Design, DAX , M language and ETL optimization with Power Query, data modeling
@@ -74,6 +75,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
 - NASA's Transform to Open Science (TOPS) mission will broaden participation in science, increase accessibility to Knoledge, and embrace new technologies that can respond to 21st century challenges / https://github.com/devita1983/Transform-to-Open-Science
 
  <img src="https://user-images.githubusercontent.com/117879893/215277992-302291a2-5c7d-4647-96c2-f8f60ae5d2f6.png" widht="80" height="90" />
+
 
 
 
