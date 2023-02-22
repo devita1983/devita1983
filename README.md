@@ -14,6 +14,7 @@
 
 
 ## Knowledges
+- As a data professional, I possess a diverse skillset in various areas of data science, including Data Science, Deep Learning, Machine Learning, Big Data, and Data Mining. I am also proficient in Python programming and experienced in working with Jupyter notebooks and RStudio. With a systematic approach to data analysis, I have a strong understanding of data science methodologies, including CRISP-DM. My expertise includes data analysis and visualization, building and evaluating machine learning models, and utilizing Github for version control.
 - Power Bi & Power Bi Mobile, Dashboards Design, DAX , M language and ETL optimization with Power Query, data modeling
 - Power Bi connection projects with various data sources, including corporate database & SQL, MySql, SQL Server, PL/SQL
 - Jupyter Notebook for Python for Data Analysis and Data Science, Graphics in Python, DataFrames, Web Scraping, Selenium, Integration Services & ETL
