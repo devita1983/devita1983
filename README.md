@@ -1,6 +1,6 @@
 # Hi! I'm Luis Claudio De Vita
 
-### I'm Business Consultant at IBM Partner Plus (Silver) 
+
 #### Solutions: 
 - Watson Assistant for Cloud Pak for Data
 - Cognos Analytics
